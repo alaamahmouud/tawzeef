@@ -145,14 +145,7 @@
       </div>
 
     <div class = "container">
-      {{-- <div class="card mb-3">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-        </div>
-      </div> --}}
+
       <div class="card">
         <div class="card-body">
           {{-- <h5 class="card-title">المشكله الاجتماعيه</h5> --}}
@@ -185,37 +178,8 @@
 
   </div>
 
-{{-- 
-<div class="cont">
-<div class=" one"><h3>تتمثل فكره مشروع توظيف الموارد البشري</h3> 
-    <ul>
-        <li>في انشا موقع للقضاء علي البطاله الموجوده في جمهورية مصر</li>
-        <li>توفير فرص عمل للمواطنين في جميع محافظات مصر </li>
-        <li> اتاحه امكانيه التسجيل في الموقع للباحثين عن وظائف</li>
-    </ul>
-     
-    </div>
 
-    
-<div class=" two">
-    <ul>
-        <h3> أهداف المشروع </h3>
-        <li> القضاء على البطالة</li>
-        <li> توفير فرص عمل بالخارج</li>
-        <li> نشر الوعى الوظيفى لدى المواطنين</li>
-        <li> تسهيل عملية البحث عن الوظائف المختلفة بسهولة ويسر</li>
-        <li> تخفيض تكاليف البحث عن الوظائف</li>
-        <li> القضاء على عمليات النصب واالحتيال المتعلقة بالجوانب الوظيفية</li>
-    </ul>
-</div>
-
-<div class=" three">
-    <ul>
-        <h3> :تتمثل المشكلة المجتمعية للمشروع فى </h3>
-        <li></li>
-    </ul>
-</div>
-</div> --}}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 </body>
 </html>

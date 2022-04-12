@@ -26,7 +26,7 @@ Route::get('/test', [App\Http\Controllers\TestController::class, 'test'])->name(
 
 Route::get('/signin', [App\Http\Controllers\SigninController::class, 'signin'])->name('signin');
 
-Route::resource('levels', LevelController::class);
+// Route::resource('levels', LevelController::class);
 
 // Route::resource('departments', DepartmentController::class);
 
