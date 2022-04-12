@@ -1,0 +1,120 @@
+*{
+    padding: 0px; 
+}
+
+.bot{
+height: 100px;
+width: auto;
+background-color:  rgb(170, 170, 170) ;
+position: relative;
+}
+.bot h1{
+    position: absolute;
+top: 15px;
+right: 30px;
+}
+.add{
+height: 30px;
+position: absolute;
+top:35px;
+left: 30px;
+background-color: rgb(136, 136, 136);
+}
+
+
+
+
+
+.tap{
+    display: flex;
+    list-style: none;
+
+}
+.tap li{
+    padding: 10px;
+background-color:  lightgrey ;
+border-right:2px solid  black ;
+cursor: pointer;
+
+  width: 100%;
+}
+
+.tap li:hover{
+    background-color:black;
+    color: white;
+    
+}
+.tap li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/*.gpjj{width: 1200px; overflow: hidden;     margin: auto;
+}
+.ul{display: inline-flex; animation-name: x; 
+ animation-duration:  4s;
+  animation-iteration-count: infinite; 
+  position: relative;}
+.list1{height: 400px; width: 1200px; background-image: url(../الصور/1.jpg);  }
+.list2{height: 400px; width: 1200px; background-image: url(../الصور/5.jpg);  }
+.list3{height: 400px; width: 1200px; background-image: url(../الصور/3.jpg);  }
+.list4{height: 400px; width: 1200px; background-image: url(../الصور/4.jpg);  }
+
+@keyframes x {
+    0%{ right: 0px;}
+    30%{ right: 1200px;}
+    60%{ right: 2400px;}
+   100%{ right: 3600px;}
+
+}*/
+
+
+.jpg{
+    height: 400px;
+    width: 100%;
+    border: 5px lightgray solid;
+    background-image: url("../الصور/1.jpg");
+    background-size: 100% 400px;
+}
+
+  
+
+
+.tab2{
+    display: flex;
+    list-style: none;
+  
+}
+.tab2 li{
+    padding: 10px;
+    background-color:  lightgrey ;
+    border-right:2px solid  black ;
+    cursor: pointer;
+    
+      width: 300px;
+      
+}
+.tab2 li:hover{
+    background-color:black;
+    color: white;
+}
+
+
+.cont{
+    background-color:  lightgrey ;
+}
+
+.cont div{
+    padding: 20px;
+}
+
+.cont div:not(:first-child){
+display: none;
+}
+
+
+
+
+
+
